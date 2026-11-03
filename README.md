@@ -31,8 +31,8 @@
 <h3 align="left">Certifications:</h3>
 
 <p align="left">
-<a href="[YOUR_CERTIFICATE_URL](https://certificates.cs50.io/a3a0350a-8d9a-4bf4-8334-5c93a35a9987.pdf?size=letter)" target="_blank">
-<img src="https://img.shields.io/badge/CS50x-Harvard%20University-red?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x Certificate"/>
+<a href="https://certificates.cs50.io/a3a0350a-8d9a-4bf4-8334-5c93a35a9987.pdf?size=letter" target="_blank">
+<img src="https://img.shields.io/badge/CS50%20AI-Harvard%20University-red?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50 AI Certificate"/>
 </a>
 </p>
 
